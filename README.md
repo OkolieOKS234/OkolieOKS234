@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OkolieOKS234
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Clpud Computing
+- 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on web based projects
 - 📫 How to reach me 09060584677 on Whatsaap
 
