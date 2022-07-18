@@ -1,12 +1,12 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-## Who am I?
-
- <h2>I am David Okolie, a software engineer proficient in HTML, CSS and Javascript</h2>
 
  
 
 ## Programming Languages
+## Who am I?
+
+ <h2>I am David Okolie, a software engineer proficient in HTML, CSS and Javascript</h2>
 
 <!-- <p>
     
