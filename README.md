@@ -1,40 +1,19 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+![Github Banner](https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
 
-## Who am I?
-
- ```python
-  class WhoAmI:
-    user = 'David Okolie'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
-	hobbies = [
-  'Coding',
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
-			]
-	
-	def getCity():
-		return Gombe()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
-	
- ```
 
  
 
-## Programming Languages
+## Programming Languages and Bio
+
+
+ <h2>I am David Okolie, a software engineer proficient in HTML, CSS and Javascript</h2>
 
 <p>
-    
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+   <a href="#"><img alt="javascript" src="https://img.icons8.com/color/200/javascript--v1.png"></a>
+   <a href="#"><img alt="css" src="https://img.icons8.com/color/200/000000/css3.png"></a>
+	   <a href="#"><img alt="Tailwindcss" src="https://img.icons8.com/color/200/tailwindcss.png"></a>
+	  <a href="#"><img alt="React" src="https://img.icons8.com/office/200/react.png"></a>
+	
 </p>
 
 ## Frameworks and Libraries
@@ -68,7 +47,7 @@
 
 ## Software and Tools
 <p>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+<!--   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 	<a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
  
@@ -76,7 +55,7 @@
 	<a href="#"><img alt="Notepad" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
 
 	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
-</p>
+</p> -->
 
 ## Connect with Me
 
