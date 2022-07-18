@@ -2,28 +2,7 @@
 
 ## Who am I?
 
- ```python
-  class WhoAmI:
-    user = 'David Okolie'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
-	hobbies = [
-  'Coding',
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
-			]
-	
-	def getCity():
-		return Gombe()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
-	
- ```
+ 
 
  
 
