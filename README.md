@@ -2,7 +2,7 @@
 
 ## Who am I?
 
- 
+ <h2>I am David Okolie, a software engineer proficient in HTML, CSS and Javascript</h2>
 
  
 
