@@ -8,7 +8,7 @@
 
  <h2>I am David Okolie, a software engineer proficient in HTML, CSS and Javascript</h2>
 
-<p>
+<p style="background-color: red;">
    <a href="#"><img alt="javascript" src="https://img.icons8.com/color/200/javascript--v1.png"></a>
    <a href="#"><img alt="css" src="https://img.icons8.com/color/200/000000/css3.png"></a>
 	   <a href="#"><img alt="Tailwindcss" src="https://img.icons8.com/color/200/tailwindcss.png"></a>
