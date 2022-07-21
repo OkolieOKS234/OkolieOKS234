@@ -13,7 +13,7 @@
    <a href="#"><img alt="css" src="https://img.icons8.com/color/200/000000/css3.png"></a>
 	   <a href="#"><img alt="Tailwindcss" src="https://img.icons8.com/color/200/tailwindcss.png"></a>
 	  <a href="#"><img alt="React" src="https://img.icons8.com/office/200/react.png"></a>
-	    <a href="#"><img alt="React" src="https://img.icons8.com/fluency/344/node-js.png"></a>
+	    <a href="#"><img alt="React" src="https://img.icons8.com/fluency/200/node-js.png"></a>
 	
 	
 </p>
