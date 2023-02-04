@@ -15,7 +15,7 @@
 	  <a href="#"><img alt="React" src="https://img.icons8.com/office/200/react.png"></a>
 	    <a href="#"><img alt="Node" src="https://img.icons8.com/fluency/200/node-js.png"></a>
 	<a href="#"><img alt="Bootstrap" src="https://img.icons8.com/color/200/bootstrap.png"></a>
-	<a href="#"><img alt="Bootstrap" src="[https://img.icons8.com/color/200/bootstrap.png](https://internet-computer.de/wp-content/uploads/2021/08/Motoko-logo-768x527.jpg)"></a>
+	<a href="#"><img alt="Bootstrap" src="https://internet-computer.de/wp-content/uploads/2021/08/Motoko-logo-768x527.jpg"></a>
 	
 	
 	
