@@ -6,7 +6,7 @@
 ## Programming Languages and Bio
 
 
- <h2>I am David Okolie, a software engineer proficient in HTML, CSS and Javascript</h2>
+ <h2>I am David Okolie, a software engineer proficient in Javascript, Motoko, Mongodb, React</h2>
 
 <p style="background-color: red;">
    <a href="#"><img alt="javascript" src="https://img.icons8.com/color/200/javascript--v1.png"></a>
